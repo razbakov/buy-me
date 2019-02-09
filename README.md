@@ -27,3 +27,12 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### TODO
+
+- [ ] Refactor (use modules in vuex and extract reusable components)
+- [ ] Import csv from PlanToEat
+- [ ] Deploy to netlify
+- [ ] Integrate Auth (Firestore)
+- [ ] Save ingredients, trnanslations, photos (Firestore)
+- [ ] Add commenting (Firestore)
