@@ -9,7 +9,7 @@
           <img :src="item.photo || 'https://via.placeholder.com/640'" class="card-img-top" :alt="item.title">
         </div>
         <div class="card-body">
-          <h5 class="card-title">{{ item.Title }}</h5>
+          <h5 class="card-title">{{ item.title }}</h5>
           <p class="card-text ingredient-translation">{{ item.translation }}</p>
         </div>
       </div>
