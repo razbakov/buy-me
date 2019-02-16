@@ -1,5 +1,14 @@
 # buy-me
 
+> Shopping list for expats families with photos and translations
+
+- [Demo](https://buy-me.netlify.com/)
+
+Watch step by step online coding broadcasting of how this app was created:
+
+- [Part 1](https://www.twitch.tv/videos/377707126)
+- [Part 2](https://www.twitch.tv/videos/381569754)
+
 ## Project setup
 ```
 yarn install
