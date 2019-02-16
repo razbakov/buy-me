@@ -3,7 +3,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-warning">
       <a class="navbar-brand" href="#">Buy Me</a>
 
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav flex-row mr-auto">
         <li class="nav-item active">
           <RouterLink to="/" class="nav-link">Shopping</RouterLink>
         </li>
@@ -17,3 +17,8 @@
     </div>
   </div>
 </template>
+
+<style lang="stylus">
+.nav-item
+  margin-right 1rem
+</style>
